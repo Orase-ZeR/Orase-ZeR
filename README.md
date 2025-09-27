@@ -4,7 +4,7 @@
 
 <br clear="both">
 
-<img align="left" height="150" src="https://i.imgflip.com/a7e4wz.gif" style="margin-right:20px;" />
+<img align="left" height="150" src="https://i.imgflip.com/a7e4wz.gif" style="margin-right:200px;" />
 
 ###
 
