@@ -2,16 +2,20 @@
 
 ###
 
-<div align="right">
-  <img src="https://github-readme-stats.vercel.app/api?username=Orase-ZeR&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=Orase-ZeR&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-</div>
+<img align="left" height="150" src="https://i.imgflip.com/a7e4wz.gif"  />
+
+###
+
+<p align="left">Aspiring developer passionate about innovation and continuous learning. I explore new technologies every day to expand my skills and strengthen my expertise. With a strong interest in cybersecurity, I aim to combine development and security to create reliable and effective solutions.</p>
 
 ###
 
 <br clear="both">
 
-<img align="left" height="150" src="https://i.imgflip.com/a7e4wz.gif"  />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Orase-ZeR&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=Orase-ZeR&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+</div>
 
 ###
 
@@ -55,12 +59,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Orase-ZeR/Orase-ZeR/output/snake.svg" alt="Snake animation" />
-
-###
-
-
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Orase-ZeR.Orase-ZeR&"  />
 
 ###
