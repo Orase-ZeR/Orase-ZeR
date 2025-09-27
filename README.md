@@ -4,15 +4,11 @@
 
 <br clear="both">
 
-<img align="left" height="150" src="https://i.imgflip.com/a7e4wz.gif" style="margin-right:200px;" />
+<img align="left" height="150" src="https://i.imgflip.com/a7e4wz.gif"  />
 
 ###
 
-<p align="left">
-Aspiring developer passionate about innovation and continuous learning.  
-I explore new technologies every day to expand my skills and strengthen my expertise.  
-With a strong interest in cybersecurity, I aim to combine development and security to create reliable and effective solutions.
-</p>
+<p align="center">Aspiring developer passionate about innovation and continuous learning. I explore new technologies every day to expand my skills and strengthen my expertise. With a strong interest in cybersecurity, I aim to combine development and security to create reliable and effective solutions.</p>
 
 ###
 
